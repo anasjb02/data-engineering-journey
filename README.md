@@ -6,7 +6,7 @@ Ostad Data Engineering Bootcamp, ব্যাচ ০১ — অক্টোব�
 ## আমি কে
 
 
-## এখন পর্যন্ত যা শিখেছি
+## What i learned
 
 | সপ্তাহ | বিষয় | কাজ |
 |---|---|---|
